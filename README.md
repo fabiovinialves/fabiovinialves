@@ -74,13 +74,3 @@
 
 - Português — Nativo  
 - Inglês — Básico  
-
-
-
-## 📫 Contato
-
-<p align="center">
-  <a href="mailto:fabiovinialves@gmail.com">fabiovinialves@gmail.com</a> •
-  <a href="https://github.com/fabiovinialves">GitHub</a> •
-  <a href="SEU_LINKEDIN_AQUI">LinkedIn</a>
-</p>
