@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/GitHub-fabiovinialves-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/fabio-vinicius-4b25011b3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-F%C3%A1bio%20Vinicius-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
