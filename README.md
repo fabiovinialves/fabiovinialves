@@ -56,7 +56,7 @@
   <a href="https://github.com/fabiovinialves/Party_Time">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabiovinialves&repo=Party_Time&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/fabiovinialves/Quiz">
+  <a href="https://github.com/fabiovinialves/github_finder">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabiovinialves&repo=Quiz&theme=tokyonight&hide_border=true" />
   </a>
 </p>
