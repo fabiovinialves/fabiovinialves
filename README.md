@@ -49,20 +49,6 @@
   <img src="https://streak-stats.demolab.com?user=fabiovinialves&theme=tokyonight&hide_border=true" />
 </p>
 
-
-## 📌 Projetos em destaque
-
-<p align="center">
-  <a href="https://github.com/fabiovinialves/Party_Time">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabiovinialves&repo=Party_Time&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/fabiovinialves/Quiz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabiovinialves&repo=Quiz&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-
-
 ## 🎓 Formação
 
 - **Análise e Desenvolvimento de Sistemas** — Universidade Católica de Brasília  
