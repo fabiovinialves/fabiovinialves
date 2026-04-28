@@ -52,7 +52,8 @@
 ## 🎓 Formação
 
 - **Análise e Desenvolvimento de Sistemas** — Universidade Católica de Brasília  
-- **Formação Front-end** — Udemy  
+- **Formação Front-end** — Udemy
+- **Formação Desenvolvimento Front-end com Angular** — DIO  
 - **Técnico em Informática** — Escola Técnica de Brasília  
 
 
