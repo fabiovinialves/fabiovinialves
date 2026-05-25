@@ -13,7 +13,7 @@
   <a href="https://github.com/fabiovinialves">
     <img src="https://img.shields.io/badge/GitHub-fabiovinialves-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/fábio-vinicius-4b25011b3/">
+  <a href="https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BuBOJfeE1TeiJJ3poww3zmQ%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
