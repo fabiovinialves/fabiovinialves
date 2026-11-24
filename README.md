@@ -51,10 +51,12 @@
 
 ## 🎓 Formação
 
-- **Análise e Desenvolvimento de Sistemas** — Universidade Católica de Brasília  
+- **Análise e Desenvolvimento de Sistemas** — Universidade Católica de Brasília
+- **Técnico em Informática** — Escola Técnica de Brasília 
 - **Formação Front-end** — Udemy
 - **Formação Desenvolvimento Front-end com Angular** — DIO  
-- **Técnico em Informática** — Escola Técnica de Brasília  
+- **Curso de React JS 19 e Next.js 15** - Udemy
+
 
 
 ## 🌐 Idiomas
